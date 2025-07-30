@@ -1,0 +1,6 @@
+RESULTADO ELEIÇÃO------------QUANTIDADE ELEITORES: 31
+Cargo: Governador, Candidato(s) mais votados: Roberto Martins N: 22, Votos: 9, Elisa Nunes N: 13, Votos: 9
+Cargo: Presidente, Candidato(s) mais votados: Igor Moreira N: 13, Votos: 10
+Cargo: DepFederal, Candidato(s) mais votados: Pedro Santos N: 2210, Votos: 11
+Cargo: DepEstadual, Candidato(s) mais votados: Ana Oliveira N: 22200, Votos: 9
+Cargo: Senador, Candidato(s) mais votados: Rafael Gomes N: 453, Votos: 10, Beatriz Fernandes N: 171, Votos: 10

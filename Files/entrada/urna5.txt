@@ -1,0 +1,22 @@
+dicionario para votos: id_urna, id_votacao, depEstadual, depFederal, senador, governador, presidente
+adicionar_voto: 5, 72658, 22200, 2210, 454, 13, 22
+adicionar_voto: 5, 91023, 22200, 2210, 453, 22, 2
+adicionar_voto: 5, 38974, 45200, 4510, 172, 13, 40
+adicionar_voto: 5, 31856, 13200, 1310, 171, 22, 13
+adicionar_voto: 5, 62897, 45200, 4510, 171, 13, 40
+adicionar_voto: 5, 68412, 40200, 4010, 454, 40, 22
+adicionar_voto: 5, 74582, 22200, 2210, 171, 13, 13
+adicionar_voto: 5, 48219, 13200, 1310, 453, 22, 13
+adicionar_voto: 5, 83927, 45200, 4510, 453, 22, 45
+adicionar_voto: 5, 58429, 40200, 4010, 172, 17, 40
+adicionar_voto: 5, 81247, 13200, 1310, 171, 22, 45
+adicionar_voto: 5, 21593, 40200, 4010, 171, 17, 13
+adicionar_voto: 5, 45621, 22200, 2210, 453, 40, 22
+adicionar_voto: 5, 83927, 45200, 4510, 453, 22, 45
+adicionar_voto: 5, 58429, 40200, 4010, 172, 17, 40
+adicionar_voto: 5, 52617, 22200, 2210, 171, 13, 13
+adicionar_voto: 5, 75362, 22200, 2210, 171, 13, 40
+adicionar_voto: 5, 48219, 13200, 1310, 453, 22, 13
+adicionar_voto: 5, 39128, 40200, 4010, 454, 40, 22
+adicionar_voto: 5, 19743, 45200, 4510, 172, 13, 22
+adicionar_voto: 5, 31856, 13200, 1310, 171, 22, 13

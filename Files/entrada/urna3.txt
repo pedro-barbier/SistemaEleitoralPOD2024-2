@@ -1,0 +1,10 @@
+dicionario para votos: id_urna, id_votacao, depEstadual, depFederal, senador, governador, presidente
+adicionar_voto: 3, 39284, 13200, 1310, 171, 40, 13
+adicionar_voto: 3, 7418, 13200, 1310, 454, 40, 45
+adicionar_voto: 3, 45621, 22200, 2210, 453, 40, 22
+adicionar_voto: 3, 97215, 45200, 4510, 53, 17, 40
+adicionar_voto: 3, 94672, 40200, 4010, 454, 40, 22
+adicionar_voto: 3, 19486, 13200, 1310, 172, 40, 40
+adicionar_voto: 3, 89154, 45200, 4510, 454, 17, 45
+adicionar_voto: 3, 63984, 40200, 4010, 454, 40, 45
+adicionar_voto: 3, 51247, 13200, 1310, 453, 40, 45

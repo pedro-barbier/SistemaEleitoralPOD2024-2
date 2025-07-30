@@ -1,0 +1,66 @@
+dicionario para partido: cnpj, nome, numero
+adicionar_partido: 12.345.678/0001-90, Partido da União, 45
+adicionar_partido: 98.765.432/0001-12, Partido Nacionalista, 22
+adicionar_partido: 23.456.789/0001-23, Partido Democrático, 13
+adicionar_partido: 87.654.321/0001-45, Partido Progressista, 40
+adicionar_partido: 34.567.890/0001-34, Partido Social, 17
+dicionario para pessoa: nome, cpf, data_nascimento
+adicionar_pessoa: João Silva, 12345678901, 1980-05-12
+adicionar_pessoa: Maria Souza, 23456789012, 1975-03-25
+adicionar_pessoa: Pedro Santos, 34567890123, 1985-07-18
+adicionar_pessoa: Ana Oliveira, 4567901234, 1990-09-30
+adicionar_pessoa: Carla Pereira, 56789012345, 1983-02-14
+adicionar_pessoa: José Lima, 67890123456, 1978-11-05
+adicionar_pessoa: Fernanda Costa, 78901234567, 1987-06-22
+adicionar_pessoa: Lucas Almeida, 89012345678, 1995-08-13
+adicionar_pessoa: Beatriz Fernandes, 90123456789, 1982-12-30
+adicionar_pessoa: Guilherme Rodrigues, 01234567890, 1991-04-10
+adicionar_pessoa: Rafael Gomes, 11223344567, 1986-01-11
+adicionar_pessoa: Juliana Carvalho, 22334455678, 1993-10-22
+adicionar_pessoa: Roberto Martins, 33445566789, 1979-08-07
+adicionar_pessoa: Elisa Nunes, 44556677890, 1988-03-19
+adicionar_pessoa: Eduardo Castro, 55667788901, 1977-12-15
+adicionar_pessoa: Paula Araújo, 66778899012, 1992-07-30
+adicionar_pessoa: Felipe Barbosa, 77889900123, 1981-09-09
+adicionar_pessoa: Laura Fernandes, 88990011234, 1996-06-05
+adicionar_pessoa: Igor Moreira, 99001122345, 1984-04-27
+adicionar_pessoa: Vanessa Cardoso, 10111233456, 1989-11-03
+adicionar_pessoa: Gabriel Tavares, 11223344578, 1977-01-15
+adicionar_pessoa: Patrícia Cunha, 22334455689, 1990-10-11
+adicionar_pessoa: André Medeiros, 33445566790, 1988-03-22
+adicionar_pessoa: Marina Duarte, 44556677801, 1981-08-09
+adicionar_pessoa: Luiz Oliveira, 55667788912, 1995-05-19
+adicionar_pessoa: Camila Brito, 6678899023, 1992-12-29
+adicionar_pessoa: Henrique Matos, 77889900134, 1983-09-14
+adicionar_pessoa: Tatiana Ribeiro, 88990011245, 1986-07-07
+adicionar_pessoa: Rodrigo Freitas, 99001122356, 1979-02-17
+dicionario para candidato: cpf, numero, partido, propostas, cargo
+adicionar_candidato: 12345678901, 45101212, 45, Reforma da saúde - mais educação, DepFederal
+adicionar_candidato: 23456789012, 45200, 45, Combate à corrupção - incentivo ao empreendedorismo, DepEstadual
+adicionar_candidato: 34567890123, 2210, 22, Desenvolvimento econômico - segurança pública, DepFederal
+adicionar_candidato: 45678901234, 22200, 22, Valorização do trabalhador - infraestrutura urbana, DepEstadual
+adicionar_candidato: 56789012345, 1310, 13, Reforma trabalhista - sustentabilidade, DepFederal
+adicionar_candidato: 67890123456, 13200, 133, Políticas ambientais - energia renovável, DepEstadual
+adicionar_candidato: 78901234567, 4010, 40, Tecnologia - inovação na educação, DepFederal
+adicionar_candidato: 89012345678, 40200, 40, Modernização da indústria - incentivo à ciência, DepEstadual
+adicionar_candidato: 90123456789, 171, 17, Redução de impostos - apoio à agricultura, Senador
+adicionar_candidato: 0123456890, 172, 17, Acesso à saúde pública - investimentos em segurança, Senador
+adicionar_candidato: 11223344567, 453, 45, Combate à corrupção - transparência governamental, Senador
+adicionar_candidato: 22334455678, 454, 45, Reforma administrativa - melhorias no transporte público, Senador
+adicionar_candidato: 33445566789, 22, 22, Valorização do trabalhador - infraestrutura, Governador
+adicionar_candidato: 44556677890, 13, 13, Reforma tributária - incentivo à exportação, Governador
+adicionar_candidato: 55667788901, 40, 40, Incentivo à tecnologia - modernização industrial, Governador
+adicionar_candidato: 66778899012, 17, 17, Expansão da conectividade digital - investimentos em startups, Governador
+adicionar_candidato: 77889900123, 45, 45, Melhoria da educação básica - construção de hospitais regionais, Presidente
+adicionar_candidato: 88990011234, 22, 22, Valorização da cultura nacional - incentivo ao turismo local, Presidente
+adicionar_candidato: 99001122345, 13, 13, Desenvolvimento nacional - políticas de exportação, Presidente
+adicionar_candidato: 10111233456, 40, 40, Crescimento econômico - reforma tributária, Presidente
+adicionar_candidato: 11223344578, 4511, 45, Ampliação dos direitos trabalhistas - inclusão social, DepFederal
+adicionar_candidato: 2233445689, 2211, 14, Acesso universal à educação - segurança alimentar, DepFederal
+adicionar_candidato: 33445566790, 1311, 13, Proteção ambiental - incentivo ao desenvolvimento rural, DepFederal
+adicionar_candidato: 44556677801, 40201, 40, Fomento à pesquisa - ciência e tecnologia para o futuro, DepEstadual
+adicionar_candidato: 55667788912, 1711, 17, Redução da desigualdade - infraestrutura nas regiões carentes, DepFederal
+adicionar_candidato: 66778899023, 13201, 13, Apoio a comunidades indígenas - preservação cultural, DepEstadual
+adicionar_candidato: 77889900134, 454, 45, Transparência no governo - combate à corrupção, Senador
+adicionar_candidato: 88990011245, 224, 22, Reformas econômicas - estabilidade financeira, Senador
+adicionar_candidato: 99001122356, 402, 40, Inovação tecnológica - apoio ao empreendedorismo, Governador

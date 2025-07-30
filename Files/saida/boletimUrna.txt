@@ -1,0 +1,62 @@
+-----------------BOLETIM DA URNA 1----------------
+Governador:
+  Candidato Roberto Martins (Número 22): 3 votos
+  Candidato Elisa Nunes (Número 13): 3 votos
+  Candidato Eduardo Castro (Número 40): 2 votos
+  Candidato Paula Araújo (Número 17): 2 votos
+Presidente:
+  Candidato Felipe Barbosa (Número 45): 2 votos
+  Candidato Laura Fernandes (Número 22): 1 votos
+  Candidato Igor Moreira (Número 13): 5 votos
+  Candidato Vanessa Cardoso (Número 40): 2 votos
+DepFederal:
+  Candidato Pedro Santos (Número 2210): 5 votos
+  Candidato Carla Pereira (Número 1310): 2 votos
+  Candidato Fernanda Costa (Número 4010): 3 votos
+  Candidato Gabriel Tavares (Número 4511): 0 votos
+  Candidato André Medeiros (Número 1311): 0 votos
+  Candidato Luiz Oliveira (Número 1711): 0 votos
+DepEstadual:
+  Candidato Maria Souza (Número 45200): 1 votos
+  Candidato Ana Oliveira (Número 22200): 3 votos
+  Candidato Lucas Almeida (Número 40200): 3 votos
+  Candidato Marina Duarte (Número 40201): 0 votos
+  Candidato Camila Brito (Número 13201): 0 votos
+Senador:
+  Candidato Beatriz Fernandes (Número 171): 4 votos
+  Candidato Rafael Gomes (Número 453): 4 votos
+  Candidato Juliana Carvalho (Número 454): 1 votos
+  Candidato Henrique Matos (Número 454): 1 votos
+  Candidato Tatiana Ribeiro (Número 224): 0 votos
+None
+-----------------BOLETIM DA URNA 4----------------
+Governador:
+  Candidato Roberto Martins (Número 22): 6 votos
+  Candidato Elisa Nunes (Número 13): 6 votos
+  Candidato Eduardo Castro (Número 40): 4 votos
+  Candidato Paula Araújo (Número 17): 4 votos
+Presidente:
+  Candidato Felipe Barbosa (Número 45): 5 votos
+  Candidato Laura Fernandes (Número 22): 5 votos
+  Candidato Igor Moreira (Número 13): 5 votos
+  Candidato Vanessa Cardoso (Número 40): 4 votos
+DepFederal:
+  Candidato Pedro Santos (Número 2210): 6 votos
+  Candidato Carla Pereira (Número 1310): 4 votos
+  Candidato Fernanda Costa (Número 4010): 5 votos
+  Candidato Gabriel Tavares (Número 4511): 0 votos
+  Candidato André Medeiros (Número 1311): 0 votos
+  Candidato Luiz Oliveira (Número 1711): 0 votos
+DepEstadual:
+  Candidato Maria Souza (Número 45200): 5 votos
+  Candidato Ana Oliveira (Número 22200): 6 votos
+  Candidato Lucas Almeida (Número 40200): 5 votos
+  Candidato Marina Duarte (Número 40201): 0 votos
+  Candidato Camila Brito (Número 13201): 0 votos
+Senador:
+  Candidato Beatriz Fernandes (Número 171): 6 votos
+  Candidato Rafael Gomes (Número 453): 6 votos
+  Candidato Juliana Carvalho (Número 454): 4 votos
+  Candidato Henrique Matos (Número 454): 4 votos
+  Candidato Tatiana Ribeiro (Número 224): 0 votos
+None
